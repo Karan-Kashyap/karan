@@ -1,6 +1,8 @@
 # KARAN'S GAMES 
 Welcome to my website
-<h1> Welcome to Karan's games!
+<h1> 
+  Welcome!
+
   <h1>
   
 // Position Variables
