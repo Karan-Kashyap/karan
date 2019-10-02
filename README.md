@@ -3,7 +3,7 @@ Welcome to my website
 <h1> 
   Welcome!
 
-  <h1>
+  </h1>
   
 // Position Variables
 let x = 0;
