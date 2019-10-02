@@ -1,6 +1,7 @@
 # KARAN'S GAMES 
 Welcome to my website
 <h1> Welcome to Karan's games!
+  <h1>
   
 // Position Variables
 let x = 0;
